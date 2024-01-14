@@ -1,1 +1,1 @@
-<h1>J</h1>
+<h1 style="font-size: 1.5rem;">J</h1>
